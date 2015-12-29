@@ -16,6 +16,10 @@ A collection of various sourcemod plugins for tf2.
 <td>Change projectile model and attach unusual effect.</td>
 </tr>
 <tr>
+<td>tf2paints</td>
+<td>Paint item in slot.</td>
+</tr>
+<tr>
 <td>tf2perks</td>
 <td>Player perks.</td>
 </tr>

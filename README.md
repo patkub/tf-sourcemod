@@ -16,6 +16,10 @@ A collection of various sourcemod plugins for tf2.
 <td>Change projectile model and attach unusual effect.</td>
 </tr>
 <tr>
+<td>tf2items_wearables</td>
+<td>Hats, Unusuals, Australium, and Killstreak Tiers and Sheens.</td>
+</tr>
+<tr>
 <td>tf2paints</td>
 <td>Paint item in slot.</td>
 </tr>

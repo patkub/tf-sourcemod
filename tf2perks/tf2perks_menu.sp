@@ -38,7 +38,7 @@ public Action:Command_Perks(client, args)
 {
 	if (args != 0)
 	{
-		ReplyToCommand(client, "[SM] Usage: sm_donor");
+		ReplyToCommand(client, "[SM] Usage: sm_perks");
 		return Plugin_Handled;
 	}
 	

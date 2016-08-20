@@ -3,40 +3,11 @@ sourcemod
 
 A collection of various sourcemod plugins for tf2.
 
-<table>
-<thead>
-<tr>
-<th>Item</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>tf2customprojectiles</td>
-<td>Change projectile model and attach unusual effect.</td>
-</tr>
-<tr>
-<td>tf2items_wearables</td>
-<td>Hats, Unusuals, Australium, and Killstreak Tiers and Sheens.</td>
-</tr>
-<tr>
-<td>tf2paints</td>
-<td>Paint item in slot.</td>
-</tr>
-<tr>
-<td>tf2perks</td>
-<td>Player perks.</td>
-</tr>
-<tr>
-<td>tf2killfarm</td>
-<td>
-Farm kills on a player.<br>
-Useful to level up strange weapons.
-</td>
-</tr>
-<tr>
-<td>tf2respawn</td>
-<td>Modify respawn time per team.</td>
-</tr>
-</tbody>
-</table>
+| Item                 | Description                                                   |
+|----------------------|---------------------------------------------------------------|
+| tf2customprojectiles | Change projectile model and attach unusual effect.            |
+| tf2items_wearables   | Hats, Unusuals, Australium, and Killstreak Tiers and Sheens.  |
+| tf2paints            | Paint item in slot.                                           |
+| tf2perks             | Player perks.                                                 |
+| tf2killfarm          | Farm kills on a player. Useful to level up strange weapons.   |
+| tf2respawn           | Modify respawn time per team.                                 |

@@ -1,5 +1,5 @@
-sourcemod
-=========
+tf-sourcemod
+============
 
 A collection of various sourcemod plugins for tf2.
 
